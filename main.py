@@ -1,6 +1,7 @@
 def print_hi(name):
 
     print(f'Hi, {name}')
+
     n = 10
     print(f"Переменная n = {n}")
     m=n
